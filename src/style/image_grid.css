@@ -1,27 +1,27 @@
-.img_style_dashed {
+.img_style-dashed {
     background: blue;
     border: 2px dashed grey;
     vertical-align: top;
 }
 
-.img1_style_double {
+.img1_style-double {
     background: blue;
     border: thick double grey;
     vertical-align: bottom;
 }
 
-.img2_style_dotted {
+.img2_style-dotted {
     background: blue;
     border: 2px dotted grey;
     vertical-align: middle;
 }
 
-.img3_style_solid {
+.img3_style-solid {
     background: blue;
     border: 2px solid grey;
     vertical-align: -96px;
 }
 
-.p_margin {
+.p-margin {
     margin: 16px, 32px, 64px;
 }
