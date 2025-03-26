@@ -1,0 +1,15 @@
+.img_dashed {
+    border: 2px dashed grey;
+}
+
+.img_double {
+    border: thick double grey;
+}
+
+.img_dotted {
+    border: 2px dotted grey;
+}
+
+.img_solid {
+    border: 2px solid grey;
+}
